@@ -4,14 +4,14 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:title" content="A Barba de Baixo"/>
+        <meta property="og:title" content="Duotherapy"/>
         <meta property="og:type" content="product"/>
         <meta property="og:description" content="Você está cansado de não saber quem viu algo que você compartilhou? O EasyLink permite que você obtenha informações sobre quem clica e acessa um link que você compartilhou."/>
         <meta property="og:image" content="{{ asset('storage/pt-meta-image.png') }}"/>
 
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
 
-        <title>A Barba de Baixo</title>
+        <title>Duotherapy</title>
 
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-MX54LS9J2B"></script>
@@ -51,14 +51,10 @@
                                     <div class="relative">
                                         <h1 class="mb-8 text-5xl lg:text-[3.20rem] font-black leading-none tracking-normal text-white
                                          md:text-6xl md:tracking-tight">
-                                            Voce <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">  gostaria </span> de aumentar a receita da sua <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;"> barbearia </span>
-                                            sem precisar trabalhar <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;"> mais </span> ?</h1>
+                                            Você <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">  gostaria </span> de aprender<span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> massagem relaxante</span>
+                                            para fazer no seu <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> parceiro </span> ?</h1>
                                         <h2 class="mb-8 text-5xl lg:text-[2.20rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
-                                            Aumente a sua receita sem trabalhar
-                                            mais, saiba como se cadastrar
-                                            na nossa lista de serviço.
-                                             Você vai ficar surpreso com nosso modelo de parceria .
-                                            Além disso você terá os benefícios de:
+                                            Saiba que todo o casal que se massageia permanece mais tempo junto. Assuma a liderança e saiba mais; venha fazer o melhor curso de massagem a dois em Lisboa. Cadastre-se e você saberá mais sobre:
                                         </h2>
                                     </div>
                                     <ul class="flex flex-col gap-5">
@@ -66,25 +62,18 @@
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Negócio </span> claro e <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">atrativo </span> para os seus clientes.</p>
+                                            <p class="text-2xl text-white font-black"> Como a <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> massagem </span> pode salvar o seu <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> casamento </span> ? </p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white">Não <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">concorrência</span> de <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">serviço</span>.</p>
-                                        </li>
+                                            <p class="text-2xl text-white font-black">Como funciona o nosso programa de <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> massagem para casais </span> ? </p>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white"><span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">Receita </span> garantida ao gerar um <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">código</span> de barra.</p>
-                                        </li>
-                                        <li class="flex items-top">
-                                            <div class="w-10">
-                                                <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
-                                            </div>
-                                            <p class="text-2xl text-white">Deixe seus <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">clientes</span> mais satisfeitos.</p>
+                                            <p class="text-2xl text-white font-black"> Aumente sua <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> autoestima </span>  e a cumplicidade do <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">casal </span> . </p>
                                         </li>
                                     </ul>
                                 </div>
@@ -94,9 +83,9 @@
                         <aside class="relative z-10 w-full max-w-3xl mt-20 lg:mt-0 lg:w-5/12 ">
                             @include('error-message')
                             <div class="bg-gradient-to-br from-secondarycolor via-primarycolor to-secondarycolor rounded-xl px-1 py-1 ">
-                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #768d59;">
+                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #8329B4;">
                                     <form action="{{ route('form.validation', ['lang' => \Request::getpathinfo()]) }}" method="POST" class="w-full">
-                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Saiba mais sobre <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #768d59;">A Barba de Baixo
+                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Saiba mais sobre <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">Duotherapy
                                             </span> agora!</h4>
                                         @csrf
                                         <div class="relative w-full mt-6 space-y-8">
@@ -117,7 +106,7 @@
                                                 <input type="checkbox" name="checkbox" id="checkbox" class="cursor-pointer w-5 h-5 xl:w-7 xl:h-7 border rounded-sm focus:outline-none" checked required>
                                             </div>
                                             <div class="relative">
-                                                <button type="submit" class="w-full px-5 py-4 text-lg text-center cursor-pointer font-semibold text-white bg-gradient-to-br from-#768d59 rounded-lg hover:from-primarycolor hover:via-secondarycolor hover:to-primarycolor transition duration-150 ease-out transform" style="background-color: #768d59; color: white;">Estou Interessado!</button>
+                                                <button type="submit" class="w-full px-5 py-4 text-lg text-center cursor-pointer font-semibold text-white bg-gradient-to-br from-#768d59 rounded-lg hover:from-primarycolor hover:via-secondarycolor hover:to-primarycolor transition duration-150 ease-out transform" style="background-color: #8329B4; color: white;">Estou Interessado!</button>
                                             </div>
                                         </div>
                                     </form>
