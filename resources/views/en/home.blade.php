@@ -54,10 +54,10 @@
                             <div class="relative flex flex-col items-center justify-center w-full h-full lg:pr-10">
                                 <div class="flex flex-col items-start space-y-12">
                                     <div class="relative">
-                                        <h1 class="mb-8 text-5xl lg:text-[3.20rem] font-black leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
+                                        <h1 class="mb-8 text-5xl lg:text-[3.10rem] font-black leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
                                             <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">Would </span> you like to learn  <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">relaxing massage </span>
                                              to give your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">partner</span>? </h1>
-                                        <h2 class="mb-8 text-5xl lg:text-[2.20rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight"> <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline"></span>
+                                        <h2 class="mb-8 text-5xl lg:text-[1.50rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight"> <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline"></span>
                                             Know that every couple who massages each other stays together longer. Take the lead and learn more; Come and take the best massage course for two in Lisbon. Register and you will find out more about:</h2>
                                     </div>
                                     <ul class="flex flex-col gap-5">
