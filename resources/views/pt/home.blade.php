@@ -53,7 +53,7 @@
                                          md:text-6xl md:tracking-tight">
                                             Você <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">  gostaria </span> de aprender<span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> massagem relaxante</span>
                                             para fazer no seu <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> parceiro </span> ?</h1>
-                                        <h2 class="mb-8 text-5xl lg:text-[1.50rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
+                                        <h2 class="mb-8 text-5xl lg:text-[1.5rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
                                             Saiba que todo o casal que se massageia permanece mais tempo junto. Assuma a liderança e saiba mais; venha fazer o melhor curso de massagem a dois em Lisboa. Cadastre-se e você saberá mais sobre:
                                         </h2>
                                     </div>
