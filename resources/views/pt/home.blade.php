@@ -51,10 +51,10 @@
                                     <div class="relative">
                                         <h1 class="mb-8 text-5xl lg:text-[3.10rem] font-black leading-none tracking-normal text-white
                                          md:text-6xl md:tracking-tight">
-                                            Você <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">  gostaria </span> de aprender<span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> massagem relaxante</span>
-                                            para fazer no seu <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> parceiro </span> ?</h1>
-                                        <h2 class="mb-8 text-5xl lg:text-[1.5rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
-                                            Saiba que todo o casal que se massageia permanece mais tempo junto. Assuma a liderança e saiba mais; venha fazer o melhor curso de massagem a dois em Lisboa. Cadastre-se e você saberá mais sobre:
+                                            Você <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463">  gostaria </span> de aprender<span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;"> massagem relaxante</span>
+                                            para fazer no seu <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463"> parceiro </span> ?</h1>
+                                        <h2 class="mb-8 text-3xl lg:text-[1.5rem] font-semibold leading-none tracking-normal text-white md:text-2xl md:tracking-tight">
+                                            Saiba que todo o casal que se massageia permanece mais tempo junto. Tome a liderança e saiba mais; venha fazer o melhor curso de Lisboa para massagem a dois. Cadastre-se e você saberá mais sobre:
                                         </h2>
                                     </div>
                                     <ul class="flex flex-col gap-5">
@@ -62,18 +62,24 @@
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white font-black"> Como a <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> massagem </span> pode salvar o seu <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> casamento </span> ? </p>
+                                            <p class="text-2xl text-white"> Como a <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;"> massagem </span> pode salvar o seu <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;"> casamento </span> ? </p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white font-black">Como funciona o nosso programa de <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> massagem para casais </span> ? </p>
+                                            <p class="text-2xl text-white">Como funciona o nosso programa de <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;"> massagem para casal</span>.</p>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white font-black"> Aumente sua <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> autoestima </span>  e a cumplicidade do <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">casal </span> . </p>
+                                            <p class="text-2xl text-white"> Vantagem de <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;"> massagem </span> a<span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;"> dois</span>. </p>
+                                        </li>
+                                        <li class="flex items-top">
+                                            <div class="w-10">
+                                                <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
+                                            </div>
+                                            <p class="text-2xl text-white"> Aumente a sua  <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463"> auto-estima </span>  e cumplicidade do <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463"> casal</span>. </p>
                                         </li>
                                     </ul>
                                 </div>
@@ -83,9 +89,9 @@
                         <aside class="relative z-10 w-full max-w-3xl mt-20 lg:mt-0 lg:w-5/12 ">
                             @include('error-message')
                             <div class="bg-gradient-to-br from-secondarycolor via-primarycolor to-secondarycolor rounded-xl px-1 py-1 ">
-                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #8329B4;">
+                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #AD1463">
                                     <form action="{{ route('form.validation', ['lang' => \Request::getpathinfo()]) }}" method="POST" class="w-full">
-                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Saiba mais sobre <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">Duotherapy
+                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Saiba mais sobre <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463">Duotherapy
                                             </span> agora!</h4>
                                         @csrf
                                         <div class="relative w-full mt-6 space-y-8">
@@ -101,12 +107,16 @@
                                                 <label class="font-medium text-white">Telefone</label>
                                                 <input type="tel" name="phone" id="phone" class="block w-full px-4 py-4 mt-2 text-xl placeholder-gray-400 bg-gray-100 rounded-lg focus:outline-none focus:border-primarycolor focus:ring-4 focus:ring-primarycolor" placeholder="Digite seu número de telefone">
                                             </div>
+                                            <div class="relative">
+                                                <label class="font-medium text-white">Nome do cônjuge</label>
+                                                <input type="text" name="name" id="name" class="block w-full px-4 py-4 mt-2 text-xl placeholder-gray-400 bg-gray-100 rounded-lg focus:outline-none focus:border-primarycolor focus:ring-4 focus:ring-primarycolor" placeholder="Digite o nome do cônjuge">
+                                            </div>
                                             <div class="flex flex-row-reverse items-center gap-3">
                                                 <label for="checkbox" class="w-full text-white xl:text-xl font-medium">Concordo em receber emails!</label>
                                                 <input type="checkbox" name="checkbox" id="checkbox" class="cursor-pointer w-5 h-5 xl:w-7 xl:h-7 border rounded-sm focus:outline-none" checked required>
                                             </div>
                                             <div class="relative">
-                                                <button type="submit" class="w-full px-5 py-4 text-lg text-center cursor-pointer font-semibold text-white bg-gradient-to-br from-#768d59 rounded-lg hover:from-primarycolor hover:via-secondarycolor hover:to-primarycolor transition duration-150 ease-out transform" style="background-color: #8329B4; color: white;">Estou Interessado!</button>
+                                                <button type="submit" class="w-full px-5 py-4 text-lg text-center cursor-pointer font-semibold text-white bg-gradient-to-br from-#768d59 rounded-lg hover:from-primarycolor hover:via-secondarycolor hover:to-primarycolor transition duration-150 ease-out transform" style="background-color: #AD1463; color: white;">Estou Interessado!</button>
                                             </div>
                                         </div>
                                     </form>

@@ -55,29 +55,35 @@
                                 <div class="flex flex-col items-start space-y-12">
                                     <div class="relative">
                                         <h1 class="mb-8 text-5xl lg:text-[3.10rem] font-black leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
-                                            <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">Would </span> you like to learn  <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">relaxing massage </span>
-                                             to give your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">partner</span>? </h1>
-                                        <h2 class="mb-8 text-5xl lg:text-[1.50rem] font-black leading-none tracking-normal text-white md:text-2xl md:tracking-tight"> <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline"></span>
-                                            Know that every couple who massages each other stays together longer. Take the lead and learn more; Come and take the best massage course for two in Lisbon. Register and you will find out more about:</h2>
+                                            <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">Would </span> you like to learn  <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">relaxing massage </span>
+                                             to give your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463">partner</span>? </h1>
+                                        <h2 class="mb-8 text-5xl lg:text-[1.50rem] font-semibold leading-none tracking-normal text-white md:text-2xl md:tracking-tight"> <span class="w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-primarycolor to-primarycolor lg:inline"></span>
+                                            Know that every couple who massages each other stays together longer. Take the lead and learn more; Come take the best massage course in Lisbon for couples. Register and you will find out more about:</h2>
                                     </div>
                                     <ul class="flex flex-col gap-5">
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white font-black">How can <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">massage </span> seve your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">marriage </span>?</p>
+                                            <p class="text-2xl text-white">How can <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">massage </span> seve your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">marriage </span>?</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white font-black">How does our <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;"> couples massage </span> program work?</p>
+                                            <p class="text-2xl text-white">How our <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;"> couples massage program </span>works .</p>
                                         </li>
                                         <li class="flex items-top">
                                             <div class="w-10">
                                                 <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
                                             </div>
-                                            <p class="text-2xl text-white font-black">Increase your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">self-esteem </span> and the <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">couple's</span> complicity.</p>
+                                            <p class="text-2xl text-white">Advantage of  <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">massage </span> for <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">two</span>.</p>
+                                        </li>
+                                        <li class="flex items-top">
+                                            <div class="w-10">
+                                                <span class="inline-flex items-center justify-center w-7 h-7 mr-2 text-white bg-gradient-to-r from-primarycolor to-primarycolor rounded-full"><span class="text-md font-bold">✓</span></span>
+                                            </div>
+                                            <p class="text-2xl text-white">Increase your <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">self-esteem </span> and the <span class="bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">couple's </span>complicity.</p>
                                         </li>
                                     </ul>
                                 </div>
@@ -87,9 +93,9 @@
                         <aside class="relative z-10 w-full max-w-3xl mt-20 lg:mt-0 lg:w-5/12 ">
                             @include('error-message')
                             <div class="bg-gradient-to-br from-secondarycolor via-primarycolor to-secondarycolor rounded-xl px-1 py-1 ">
-                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #8329B4;">
+                                <div class="flex flex-col items-start justify-start py-10 px-5 sm:px-10 bg-[#09090a] w-1/33.7 shadow-2xl rounded-xl" style="border: 4px solid #AD1463;">
                                     <form action="{{ route('form.validation', ['lang' => \Request::getpathinfo()]) }}" method="POST" class="w-full">
-                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Learn more about <span class="text-white bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #8329B4;">Duotherapy
+                                        <h4 class="w-full text-[2.0rem] md:text-[2.8rem] text-white text-center font-bold">Learn more about <span class="text-white bg-clip-text bg-gradient-to-t from-yellow-300 via-green-700 to-green-900" style="color: #AD1463;">Duotherapy
                                             </span> now!</h4>
                                         @csrf
                                         <div class="relative w-full mt-6 space-y-8">
@@ -105,12 +111,16 @@
                                                 <label class="font-medium text-white">Phone</label>
                                                 <input type="tel" name="phone" id="phone" class="block w-full px-4 py-4 mt-2 text-xl placeholder-gray-400 bg-gray-100 rounded-lg focus:outline-none focus:border-primarycolor focus:ring-4 focus:ring-primarycolor" placeholder="Type your phone number">
                                             </div>
+                                            <div class="relative">
+                                                <label class="font-medium text-white">Spouse's name</label>
+                                                <input type="text" name="name" id="name" class="block w-full px-4 py-4 mt-2 text-xl placeholder-gray-400 bg-gray-100 rounded-lg focus:outline-none focus:border-primarycolor focus:ring-4 focus:ring-primarycolor" placeholder="Enter spouse's namee">
+                                            </div>
                                             <div class="flex flex-row-reverse items-center gap-3">
                                                 <label for="checkbox" class="w-full text-white xl:text-xl font-medium">I agree to receive emails!</label>
                                                 <input type="checkbox" name="checkbox" id="checkbox" class="cursor-pointer w-5 h-5 xl:w-7 xl:h-7 border rounded-sm focus:outline-none" checked required>
                                             </div>
                                             <div class="relative">
-                                                <button type="submit" class="w-full px-5 py-4 text-lg text-center cursor-pointer font-semibold text-white bg-gradient-to-br from-#768d59 rounded-lg hover:from-primarycolor hover:via-secondarycolor hover:to-primarycolor transition duration-150 ease-out transform" style="background-color: #8329B4; color: white;">I'm Interested</button>
+                                                <button type="submit" class="w-full px-5 py-4 text-lg text-center cursor-pointer font-semibold text-white bg-gradient-to-br from-#768d59 rounded-lg hover:from-primarycolor hover:via-secondarycolor hover:to-primarycolor transition duration-150 ease-out transform" style="background-color: #AD1463; color: white;">I'm Interested</button>
                                             </div>
                                         </div>
                                     </form>
